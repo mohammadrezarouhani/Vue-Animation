@@ -93,5 +93,10 @@ const removeName=(name)=>{
 
 .Invitee-leave-active {
   transition: all .5s ease;
+  position: absolute;
+}
+
+.Invitee-move{
+  transition: all .5s ease;
 }
 </style>
